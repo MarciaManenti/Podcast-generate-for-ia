@@ -1,8 +1,11 @@
-# Podcast-generate-for-ia
+# Podcast gerado atrávez de Inteligência Artificial
+
 Meu primeiro podcast
 
 
 ![imagempodcast](https://github.com/user-attachments/assets/f48507e0-5531-49ee-a979-358783d19db8)
+
+https://www.notion.so/Roteirista-142ae423f5db8083ad0ef0f0b46cad32?pvs=4
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 Utilizei alguns prompts para gerar cada etapa do processo criativo.
