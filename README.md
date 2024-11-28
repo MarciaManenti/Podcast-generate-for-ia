@@ -1,7 +1,6 @@
 # Podcast gerado atrávez de Inteligência Artificial
 
-Meu primeiro podcast
-
+Futuro Programado!
 
 ![imagempodcast](https://github.com/user-attachments/assets/f48507e0-5531-49ee-a979-358783d19db8)
 
